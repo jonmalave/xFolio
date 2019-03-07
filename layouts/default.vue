@@ -5,7 +5,7 @@
     <nuxt/>
 
     <!-- Footer -->
-    <footer :class="footer">
+    <footer class="footer">
       Handcrafted with <i class="footer__icon fa fa-heart"></i> in Miami. By <a class="footer__link" href="http://jonmalave.com" target="_blank">Jon Malave</a>
     </footer>
   </main>
