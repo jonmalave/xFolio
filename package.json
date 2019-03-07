@@ -1,0 +1,20 @@
+{
+  "name": "xfolio",
+  "version": "1.0.0",
+  "description": "Portfolio Template built with Nuxt.js.",
+  "author": "Jon Malave",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.4.0"
+  },
+  "devDependencies": {
+    "cross-env": "^5.2.0",
+    "nodemon": "^1.18.9"
+  }
+}
