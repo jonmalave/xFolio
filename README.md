@@ -2,9 +2,6 @@
 
 > Clean, minimalistic, responsive Nuxt.js developer portfolio template.
 
-## Demo
-[Demo](https://xfolio.netlify.com)
-
 ## Build Setup
 
 ``` bash
